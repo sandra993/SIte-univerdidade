@@ -1,9 +1,9 @@
 # UNES - Página Principal
 
-**UNES** é um site fictício de apresentação de uma universidade, desenvolvido para fins educacionais, utilizando HTML5 e CSS3 para criar uma interface informativa e visualmente atraente.
+**UNES** é um site fictício de apresentação de uma universidade, desenvolvido para fins educacionais, utilizando apenas HTML para criar uma interface informativa.
 
 ## **Descrição do Projeto**
-Este projeto apresenta uma página principal para a universidade fictícia UNES. Ele inclui uma navegação intuitiva, seções de apresentação e informações institucionais, como a história e os valores da universidade.
+Este projeto apresenta uma página principal para a universidade fictícia UNES. Ele inclui uma navegação simples, seções de apresentação e informações institucionais, como a história e os valores da universidade.
 
 ### **Funcionalidades Implementadas**
 - Navegação principal para acesso rápido a seções como "Quem Somos" e "Contato".
@@ -12,8 +12,7 @@ Este projeto apresenta uma página principal para a universidade fictícia UNES.
 - Rodapé com direitos autorais.
 
 ## **Tecnologias Utilizadas**
-- **HTML5:** Para estruturar o conteúdo.
-- **CSS3:** Para estilizar e definir o design visual.
+- **HTML5:** Para estruturar todo o conteúdo do site.
 
 ## **Como Executar**
 1. Clone o repositório:
@@ -30,7 +29,6 @@ Este projeto apresenta uma página principal para a universidade fictícia UNES.
 ```
 unes-pagina-principal/
 ├── index.html                # Página principal do site
-├── estilo.css                # Arquivo de estilização (se aplicável)
 ├── imagem/
 │   ├── fundo.png             # Imagem de fundo
 │   ├── logo.png              # Logotipo da universidade
